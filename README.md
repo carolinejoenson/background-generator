@@ -1,1 +1,3 @@
-# background-generator
+# Background generator
+
+Generate linear-gradient backgrounds.
