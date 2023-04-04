@@ -1,3 +1,3 @@
 # Background generator
 
-Generate linear-gradient backgrounds.
+Generate a linear-gradient background by selecting two input colors or press the button to randomly generate two colors.
